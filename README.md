@@ -1,1 +1,2 @@
 # Landing-Page
+Creating a landing page to make sure that i learned basic homepage design. Will create a " holy grail" layout. This will help with attracting people to the website without frustrating the user. 
