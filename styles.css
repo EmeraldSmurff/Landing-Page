@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 10px;
+    background-color: #1f2937;
+    padding: 10px;
+}
+
+ul{
+    gap: 20px;
+    list-style-type: none;
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.title {
+    font-size: 24px;
+    color: #f9faf8;
+}
