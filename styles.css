@@ -72,3 +72,34 @@ button {
     color: white;
     border: none;
 }
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    border-style: ridge;
+    border-color: #3882f6;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    color: #1f2937;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 25px;
+
+}
+
+.random{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.info{
+    max-width: 150px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
